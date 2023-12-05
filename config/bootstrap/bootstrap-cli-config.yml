@@ -97,10 +97,11 @@ bootstrap:
           ns-nodes:
               - node-name: uc:001:oee
                 description: Use case 001 Over all Equipment effectiveness
-                shared-access: 
+                shared-acess:
                     read:
-                         - node-name: src:001:sap
-                         - node-name: src:002:opcua
+                        - node-name: src:001:sap
+                        - node-name: src:002:opcua
+
 
         # HINT: Add another namespace below
 
