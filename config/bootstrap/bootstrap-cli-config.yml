@@ -102,6 +102,7 @@ bootstrap:
                         - node-name: src:001:sap
                         - node-name: src:002:opcua
 
+
         # HINT: Add another namespace below
 
 
